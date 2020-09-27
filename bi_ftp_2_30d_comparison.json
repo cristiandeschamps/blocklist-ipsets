@@ -1,0 +1,158 @@
+[
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 12955,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 11012,
+		"common": 6
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 12149,
+		"common": 1
+	},
+	{
+		"name": "bi_ftp_1_7d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "bi_proftpd_1_7d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "bi_proftpd_2_30d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "bi_pureftpd_2_30d",
+		"category": "attacks",
+		"ips": 3,
+		"common": 3
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 34471,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 70,
+		"common": 1
+	},
+	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 1000,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 1985,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_30d",
+		"category": "abuse",
+		"ips": 29540,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 7127,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 500,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 989,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_30d",
+		"category": "abuse",
+		"ips": 15769,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 3628,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 8186,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 170789,
+		"common": 4
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 42167,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 140585,
+		"common": 3
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 262235,
+		"common": 3
+	},
+	{
+		"name": "stopforumspam_30d",
+		"category": "abuse",
+		"ips": 59613,
+		"common": 3
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 519807,
+		"common": 3
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 141544,
+		"common": 3
+	},
+	{
+		"name": "urandomusto_ftp",
+		"category": "attacks",
+		"ips": 152,
+		"common": 1
+	}
+]

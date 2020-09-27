@@ -1,0 +1,158 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 275629,
+		"common": 6
+	},
+	{
+		"name": "bbcan177_ms3",
+		"category": "malware",
+		"ips": 30151694,
+		"common": 3
+	},
+	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 2032,
+		"common": 2
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 73728,
+		"common": 40
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 6
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 4
+	},
+	{
+		"name": "dronebl_autorooting_worms",
+		"category": "attacks",
+		"ips": 1820,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 170789,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 40230,
+		"common": 6
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9268667,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34672803,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 6
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227854188,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 8802048,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 723114125,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137162431,
+		"common": 2
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34648204,
+		"common": 3
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 2
+	},
+	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 140585,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 262235,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_30d",
+		"category": "abuse",
+		"ips": 59613,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 519807,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 141544,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 25349,
+		"common": 16
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 31930,
+		"common": 1
+	}
+]

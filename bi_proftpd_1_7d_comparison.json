@@ -1,0 +1,92 @@
+[
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 12955,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 11012,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 12149,
+		"common": 1
+	},
+	{
+		"name": "bi_ftp_1_7d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "bi_ftp_2_30d",
+		"category": "attacks",
+		"ips": 6,
+		"common": 1
+	},
+	{
+		"name": "bi_proftpd_2_30d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 34471,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 70,
+		"common": 1
+	},
+	{
+		"name": "firehol_abusers_30d",
+		"category": "abuse",
+		"ips": 170789,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 42167,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam",
+		"category": "abuse",
+		"ips": 140585,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_180d",
+		"category": "abuse",
+		"ips": 262235,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_30d",
+		"category": "abuse",
+		"ips": 59613,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_365d",
+		"category": "abuse",
+		"ips": 519807,
+		"common": 1
+	},
+	{
+		"name": "stopforumspam_90d",
+		"category": "abuse",
+		"ips": 141544,
+		"common": 1
+	}
+]

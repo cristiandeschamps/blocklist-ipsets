@@ -1,0 +1,140 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 73728,
+		"common": 55
+	},
+	{
+		"name": "bi_dns_0_1d",
+		"category": "attacks",
+		"ips": 57,
+		"common": 55
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 7
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 21248,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 40230,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9268667,
+		"common": 3
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34672803,
+		"common": 3
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 44781,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_ciarmy_malicious",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227854188,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_hijacked",
+		"category": "attacks",
+		"ips": 8802048,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_isp_qwest",
+		"category": "organizations",
+		"ips": 15777552,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_isp_twc",
+		"category": "organizations",
+		"ips": 15015936,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_isp_verizon",
+		"category": "organizations",
+		"ips": 18087936,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 723114125,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 337982386,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137162431,
+		"common": 3
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34648204,
+		"common": 3
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375474210,
+		"common": 8
+	},
+	{
+		"name": "sorbs_noserver",
+		"category": "spam",
+		"ips": 22951270,
+		"common": 2
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 25349,
+		"common": 3
+	}
+]

@@ -1,0 +1,86 @@
+[
+	{
+		"name": "bbcan177_ms1",
+		"category": "malware",
+		"ips": 5269973,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 846,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 1582,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 679,
+		"common": 1
+	},
+	{
+		"name": "bi_dovecot_2_30d",
+		"category": "attacks",
+		"ips": 36,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_1_7d",
+		"category": "attacks",
+		"ips": 122,
+		"common": 1
+	},
+	{
+		"name": "bi_mail_2_30d",
+		"category": "attacks",
+		"ips": 306,
+		"common": 1
+	},
+	{
+		"name": "bi_postfix-sasl_1_7d",
+		"category": "attacks",
+		"ips": 11,
+		"common": 1
+	},
+	{
+		"name": "bi_postfix-sasl_2_30d",
+		"category": "attacks",
+		"ips": 16,
+		"common": 1
+	},
+	{
+		"name": "bi_postfix_1_7d",
+		"category": "attacks",
+		"ips": 27,
+		"common": 1
+	},
+	{
+		"name": "bi_postfix_2_30d",
+		"category": "attacks",
+		"ips": 149,
+		"common": 1
+	},
+	{
+		"name": "bi_sasl_1_7d",
+		"category": "attacks",
+		"ips": 9,
+		"common": 1
+	},
+	{
+		"name": "bi_sasl_2_30d",
+		"category": "attacks",
+		"ips": 18,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 137276079,
+		"common": 1
+	}
+]

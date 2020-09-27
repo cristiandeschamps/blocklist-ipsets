@@ -1,0 +1,74 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 275629,
+		"common": 6
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 73728,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 12955,
+		"common": 8
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 70643,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_1_7d",
+		"category": "attacks",
+		"ips": 12015,
+		"common": 7
+	},
+	{
+		"name": "bi_telnet_0_1d",
+		"category": "attacks",
+		"ips": 154,
+		"common": 1
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 33334,
+		"common": 1
+	},
+	{
+		"name": "ciarmy",
+		"category": "reputation",
+		"ips": 15000,
+		"common": 3
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 40230,
+		"common": 3
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9268667,
+		"common": 1
+	},
+	{
+		"name": "sorbs_noserver",
+		"category": "spam",
+		"ips": 22951270,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 25349,
+		"common": 1
+	}
+]

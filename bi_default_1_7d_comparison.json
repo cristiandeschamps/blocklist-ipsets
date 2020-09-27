@@ -1,0 +1,80 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 275629,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 836,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 1580,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 703,
+		"common": 1
+	},
+	{
+		"name": "bi_default_2_30d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "bi_http_2_30d",
+		"category": "attacks",
+		"ips": 142,
+		"common": 1
+	},
+	{
+		"name": "bi_unknown_1_7d",
+		"category": "attacks",
+		"ips": 10,
+		"common": 1
+	},
+	{
+		"name": "bi_unknown_2_30d",
+		"category": "attacks",
+		"ips": 30,
+		"common": 1
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 42595,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9306943,
+		"common": 1
+	},
+	{
+		"name": "turris_greylist",
+		"category": "reputation",
+		"ips": 24958,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 27580,
+		"common": 1
+	}
+]

@@ -1,0 +1,92 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 275629,
+		"common": 1
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 73728,
+		"common": 6
+	},
+	{
+		"name": "bi_ftp_0_1d",
+		"category": "attacks",
+		"ips": 25,
+		"common": 6
+	},
+	{
+		"name": "bi_proftpd_0_1d",
+		"category": "attacks",
+		"ips": 10,
+		"common": 1
+	},
+	{
+		"name": "bi_ssh_0_1d",
+		"category": "attacks",
+		"ips": 70643,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 34471,
+		"common": 2
+	},
+	{
+		"name": "blocklist_de_ftp",
+		"category": "attacks",
+		"ips": 70,
+		"common": 2
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 33334,
+		"common": 2
+	},
+	{
+		"name": "darklist_de",
+		"category": "attacks",
+		"ips": 675912,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 42167,
+		"common": 2
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9268667,
+		"common": 2
+	},
+	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 3472,
+		"common": 2
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 56456,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 643576487,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 31930,
+		"common": 2
+	}
+]

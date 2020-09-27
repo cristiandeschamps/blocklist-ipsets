@@ -1,0 +1,152 @@
+[
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 12955,
+		"common": 1
+	},
+	{
+		"name": "bi_any_2_30d",
+		"category": "attacks",
+		"ips": 11012,
+		"common": 3
+	},
+	{
+		"name": "bi_any_2_7d",
+		"category": "attacks",
+		"ips": 12149,
+		"common": 1
+	},
+	{
+		"name": "bi_sip_2_30d",
+		"category": "attacks",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "bi_voip_1_7d",
+		"category": "attacks",
+		"ips": 5,
+		"common": 1
+	},
+	{
+		"name": "bi_voip_2_30d",
+		"category": "attacks",
+		"ips": 3,
+		"common": 3
+	},
+	{
+		"name": "blocklist_net_ua",
+		"category": "abuse",
+		"ips": 33334,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 1
+	},
+	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "dshield_1d",
+		"category": "attacks",
+		"ips": 7168,
+		"common": 1
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 21248,
+		"common": 1
+	},
+	{
+		"name": "dshield_7d",
+		"category": "attacks",
+		"ips": 12032,
+		"common": 1
+	},
+	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 19477773,
+		"common": 1
+	},
+	{
+		"name": "et_dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 619645659,
+		"common": 1
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 42167,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 40230,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9268667,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34672803,
+		"common": 1
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1097808,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 723114125,
+		"common": 1
+	},
+	{
+		"name": "normshield_all_attack",
+		"category": "attacks",
+		"ips": 549,
+		"common": 1
+	},
+	{
+		"name": "normshield_high_attack",
+		"category": "attacks",
+		"ips": 549,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34648204,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 31930,
+		"common": 3
+	}
+]
